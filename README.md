@@ -20,42 +20,6 @@ This Python project lets you draw in the air using your index finger, with real-
 - MediaPipe
 - NumPy
 
-## 📷 Demo
-> watch the [video demo here]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.linkedin.com/posts/esther-lebogang-a68245306_ai-gesturerecognition-python-activity-7336157986886758401-UAL2?utm_source=share&utm_medium=member_ios&rcm=ACoAAE39Y7ABrRAUbdrZ7juTMv8MuKnxWWaljMM)).
-
-## 📁 How to Run
-1. Clone the repository:
-
-   git clone https://github.com/yourusername/virtual-air-drawing.git
-   cd virtual-air-drawing
-
-
-2. Create a virtual environment (recommended):
-
-   python -m venv venv
-   venv\Scripts\activate
-   
-
-3. Install dependencies:
-
-   pip install -r requirements.txt
-   
-
-4. Run the application:
-
-   python air_draw.py
-   
-
-## ✅ Requirements
-
-* Python 3.7+
-* Webcam
-* Packages in `requirements.txt`:
-
-  * opencv-python
-  * mediapipe
-  * numpy
-
 ## 📌 Use Cases
 
 * Touchless sketching
